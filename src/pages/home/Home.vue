@@ -2,7 +2,7 @@
   <div>
     <home-header :city="city"></home-header>
     <home-swiper :list="swiperList"></home-swiper>
-    <HomeIcons :list="iconList"></HomeIcons>
+    <home-icons :list="iconList"></home-icons>
   </div>
 </template>
 
